@@ -11,7 +11,7 @@ class App extends React.Component {
       <div className="card">
         <div className="header">
           <div className="logo">
-            <a href="http://cypherash.com"><img style={{width: "80px", height: "48px"}} src={Logo} /></a>
+            <a href="http://cypherash.com"><img style={{width: "80px", height: "48px"}} src={Logo} alt="nothing here" /></a>
           </div>
           <div className="social">
             <a href="https://facebook.com" title="Facebook" target="_blank" rel="noopener noreferrer">
