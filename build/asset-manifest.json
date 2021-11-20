@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/coming-soon/static/css/main.b3b58c66.chunk.css",
+    "main.js": "/coming-soon/static/js/main.3fe35329.chunk.js",
+    "main.js.map": "/coming-soon/static/js/main.3fe35329.chunk.js.map",
+    "runtime-main.js": "/coming-soon/static/js/runtime-main.7af92772.js",
+    "runtime-main.js.map": "/coming-soon/static/js/runtime-main.7af92772.js.map",
+    "static/js/2.7c851472.chunk.js": "/coming-soon/static/js/2.7c851472.chunk.js",
+    "static/js/2.7c851472.chunk.js.map": "/coming-soon/static/js/2.7c851472.chunk.js.map",
+    "index.html": "/coming-soon/index.html",
+    "precache-manifest.2d8874b9cd7a562ed1c0f6468ebc2708.js": "/coming-soon/precache-manifest.2d8874b9cd7a562ed1c0f6468ebc2708.js",
+    "service-worker.js": "/coming-soon/service-worker.js",
+    "static/css/main.b3b58c66.chunk.css.map": "/coming-soon/static/css/main.b3b58c66.chunk.css.map",
+    "static/js/2.7c851472.chunk.js.LICENSE.txt": "/coming-soon/static/js/2.7c851472.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/coming-soon/static/media/IBMPlexSans-Regular.c02b4dc6.ttf",
+    "static/media/facebook.9219fa09.svg": "/coming-soon/static/media/facebook.9219fa09.svg",
+    "static/media/github.02591dd9.svg": "/coming-soon/static/media/github.02591dd9.svg",
+    "static/media/twitter.231d9578.svg": "/coming-soon/static/media/twitter.231d9578.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7af92772.js",
+    "static/js/2.7c851472.chunk.js",
+    "static/css/main.b3b58c66.chunk.css",
+    "static/js/main.3fe35329.chunk.js"
+  ]
+}

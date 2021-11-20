@@ -1,6 +1,7 @@
 {
   "name": "coming-soon",
   "version": "0.1.0",
+  "homepage": "http://cypherash.com",
   "private": true,
   "homepage": "https://arkn98.github.io/coming-soon",
   "dependencies": {
