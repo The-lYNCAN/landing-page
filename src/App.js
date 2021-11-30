@@ -27,12 +27,12 @@ class App extends React.Component {
         </div>
         <div className="content">
           <div className="title-holder">
-            <h1>Website will be available on 1st Jan for hackathon.</h1>
-            <p>register yourself for Spadework annual hackathon 2021 from this <a href="https://docs.google.com/forms/d/e/1FAIpQLScJ8ay3XPf2-r8yFLtDoi4FpVlhQrVOtbLZQCGrMIQmq8sOFA/viewform">link</a></p>
+            <h1>Website will be available on 1st Jan after hackathon.</h1>
+            {/* <p>register yourself for Spadework annual hackathon 2021 from this <a href="https://docs.google.com/forms/d/e/1FAIpQLScJ8ay3XPf2-r8yFLtDoi4FpVlhQrVOtbLZQCGrMIQmq8sOFA/viewform">link</a></p> */}
             <h1 style={{marginTop: "50px"}}>COMING SOON!!!!</h1>
           </div>
-          <a href="https://spadework.tech">
-            <div className="cta">Register</div>
+          <a href="https://www.instagram.com/spadework.tech/">
+            <div className="cta">Follow us on Instagram</div>
             {/* <h1>Coming Soon</h1> */}
           </a>
         </div>

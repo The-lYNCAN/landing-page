@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Open+Sans:wght@300&display=swap');
+
 .card {
   width: 90%;
   height: 80%;
@@ -95,6 +97,7 @@
 }
 
 .content .cta {
+  font-family: 'Comfortaa', cursive;
   min-width: 64px;
   padding: 16px 24px;
   background: #fff;
