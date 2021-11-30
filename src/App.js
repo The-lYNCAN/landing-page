@@ -27,7 +27,7 @@ class App extends React.Component {
         </div>
         <div className="content">
           <div className="title-holder">
-            <h1>Website will be available on 1st Dec for hackathon.</h1>
+            <h1>Website will be available on 1st Jan for hackathon.</h1>
             <p>register yourself for Spadework annual hackathon 2021 from this <a href="https://docs.google.com/forms/d/e/1FAIpQLScJ8ay3XPf2-r8yFLtDoi4FpVlhQrVOtbLZQCGrMIQmq8sOFA/viewform">link</a></p>
             <h1 style={{marginTop: "50px"}}>COMING SOON!!!!</h1>
           </div>
