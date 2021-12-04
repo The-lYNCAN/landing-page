@@ -3,7 +3,10 @@ import './styles/apply.css'
 
 const Apply = () => {
     useEffect(() => {
-        window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLSdnYhmGj903fJS9A4gzkZMF5uSEmKF2sQ5IZaiGRQC1rz5Aiw/viewform"
+        console.log("Hello WOrld");
+        setTimeout(() => {
+            window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLSdnYhmGj903fJS9A4gzkZMF5uSEmKF2sQ5IZaiGRQC1rz5Aiw/viewform"
+        }, 3000);
     }, [])
     return(
         <div className="containerApp">
