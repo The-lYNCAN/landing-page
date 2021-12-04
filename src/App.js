@@ -4,6 +4,7 @@ import { ReactComponent as IconTwitter } from './assets/icons/twitter.svg';
 import { ReactComponent as IconGithub } from './assets/icons/github.svg';
 import "./App.css";
 import Logo from './assets/image-removebg-preview.png'
+// import {Switch, Route} from 'react-router'
 
 class App extends React.Component {
   render = () => {
