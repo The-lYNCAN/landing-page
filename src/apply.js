@@ -5,7 +5,7 @@ const Apply = () => {
     useEffect(() => {
         console.log("Hello WOrld");
         setTimeout(() => {
-            window.location.href = "https://docs.google.com/forms/d/e/1FAIpQLSdnYhmGj903fJS9A4gzkZMF5uSEmKF2sQ5IZaiGRQC1rz5Aiw/viewform"
+            window.location.href = "https://forms.gle/5b8V8iNQWYLbCFQd8"
         }, 3000);
     }, [])
     return(
